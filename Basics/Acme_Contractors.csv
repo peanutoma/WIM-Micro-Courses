@@ -1,11 +1,12 @@
 Login Name,Email Address,Display Name,Description,Office Number,Mobile Number,Home Number,Roles,Password,Require Password Change,Personal_Email
 Carrie.Cairo@acme[IdentityID].com,Your email address,Carrie Cairo,Contractor,,,,Contractor,Cyberark1,FALSE,
-Holly.Wood@acme[IdentityID].com,Your email address,Holly Wood,Contractor,,,,Finance,Cyberark1,FALSE,
+Holly.Wood@acme[IdentityID].com,Your email address,Holly Wood,Contractor,,,,Marketing,Cyberark1,FALSE,
 Carlos.Burg@acme[IdentityID].com,Your email address,Carlos Burg,Contractor,,,,Marketing,Cyberark1,FALSE,
-Daniel.Carter@acme[IdentityID].com,Your email address,Daniel Carter,Contractor,,,,IT,Cyberark1,FALSE,
+Daniel.Carter@acme[IdentityID].com,Your email address,Daniel Carter,Contractor,,,,Finance,Cyberark1,FALSE,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 
 ,,,,,,,,,,
+
